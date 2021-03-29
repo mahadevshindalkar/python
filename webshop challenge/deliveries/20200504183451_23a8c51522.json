@@ -1,0 +1,27 @@
+{
+  "Warehouse": "London",
+  "Date": "2020-05-04",
+  "Time": "18:34:51",
+  "Items": [
+    {
+      "ItemID": 62462,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 26,
+      "ItemCount": 60
+    },
+    {
+      "ItemID": 76552,
+      "ItemCount": 120
+    },
+    {
+      "ItemID": 81422,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 95592,
+      "ItemCount": 20
+    }
+  ]
+}

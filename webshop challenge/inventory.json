@@ -1,0 +1,518 @@
+[
+  {
+    "Warehouse": "East of England",
+    "Inventory": [
+      {
+        "ItemID": 81422,
+        "Count": 14
+      },
+      {
+        "ItemID": 108342,
+        "Count": 22
+      },
+      {
+        "ItemID": 4464,
+        "Count": 10
+      },
+      {
+        "ItemID": 1484,
+        "Count": 13
+      },
+      {
+        "ItemID": 75252,
+        "Count": 18
+      },
+      {
+        "ItemID": 95592,
+        "Count": 8
+      },
+      {
+        "ItemID": 6439,
+        "Count": 16
+      },
+      {
+        "ItemID": 62462,
+        "Count": 8
+      },
+      {
+        "ItemID": 76552,
+        "Count": 12
+      },
+      {
+        "ItemID": 26,
+        "Count": 13
+      }
+    ]
+  },
+  {
+    "Warehouse": "West Midlands",
+    "Inventory": [
+      {
+        "ItemID": 108342,
+        "Count": 11
+      },
+      {
+        "ItemID": 76552,
+        "Count": 11
+      },
+      {
+        "ItemID": 95592,
+        "Count": 19
+      },
+      {
+        "ItemID": 1484,
+        "Count": 3
+      },
+      {
+        "ItemID": 4464,
+        "Count": 6
+      },
+      {
+        "ItemID": 81422,
+        "Count": 16
+      },
+      {
+        "ItemID": 62462,
+        "Count": 14
+      },
+      {
+        "ItemID": 26,
+        "Count": 3
+      },
+      {
+        "ItemID": 6439,
+        "Count": 12
+      },
+      {
+        "ItemID": 75252,
+        "Count": 7
+      }
+    ]
+  },
+  {
+    "Warehouse": "South West",
+    "Inventory": [
+      {
+        "ItemID": 95592,
+        "Count": 15
+      },
+      {
+        "ItemID": 62462,
+        "Count": 16
+      },
+      {
+        "ItemID": 76552,
+        "Count": 12
+      },
+      {
+        "ItemID": 6439,
+        "Count": 15
+      },
+      {
+        "ItemID": 1484,
+        "Count": 13
+      },
+      {
+        "ItemID": 4464,
+        "Count": 12
+      },
+      {
+        "ItemID": 81422,
+        "Count": 15
+      },
+      {
+        "ItemID": 26,
+        "Count": 25
+      },
+      {
+        "ItemID": 75252,
+        "Count": 14
+      },
+      {
+        "ItemID": 108342,
+        "Count": 10
+      }
+    ]
+  },
+  {
+    "Warehouse": "Yorkshire and The Humber",
+    "Inventory": [
+      {
+        "ItemID": 62462,
+        "Count": 12
+      },
+      {
+        "ItemID": 76552,
+        "Count": 19
+      },
+      {
+        "ItemID": 1484,
+        "Count": 10
+      },
+      {
+        "ItemID": 4464,
+        "Count": 12
+      },
+      {
+        "ItemID": 75252,
+        "Count": 7
+      },
+      {
+        "ItemID": 95592,
+        "Count": 17
+      },
+      {
+        "ItemID": 6439,
+        "Count": 10
+      },
+      {
+        "ItemID": 26,
+        "Count": 16
+      },
+      {
+        "ItemID": 108342,
+        "Count": 10
+      },
+      {
+        "ItemID": 81422,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Warehouse": "South East",
+    "Inventory": [
+      {
+        "ItemID": 1484,
+        "Count": 24
+      },
+      {
+        "ItemID": 95592,
+        "Count": 19
+      },
+      {
+        "ItemID": 81422,
+        "Count": 35
+      },
+      {
+        "ItemID": 6439,
+        "Count": 22
+      },
+      {
+        "ItemID": 26,
+        "Count": 30
+      },
+      {
+        "ItemID": 108342,
+        "Count": 22
+      },
+      {
+        "ItemID": 76552,
+        "Count": 19
+      },
+      {
+        "ItemID": 4464,
+        "Count": 31
+      },
+      {
+        "ItemID": 75252,
+        "Count": 26
+      },
+      {
+        "ItemID": 62462,
+        "Count": 23
+      }
+    ]
+  },
+  {
+    "Warehouse": "Scotland",
+    "Inventory": [
+      {
+        "ItemID": 62462,
+        "Count": 14
+      },
+      {
+        "ItemID": 76552,
+        "Count": 15
+      },
+      {
+        "ItemID": 26,
+        "Count": 14
+      },
+      {
+        "ItemID": 108342,
+        "Count": 14
+      },
+      {
+        "ItemID": 6439,
+        "Count": 14
+      },
+      {
+        "ItemID": 75252,
+        "Count": 13
+      },
+      {
+        "ItemID": 1484,
+        "Count": 13
+      },
+      {
+        "ItemID": 81422,
+        "Count": 4
+      },
+      {
+        "ItemID": 95592,
+        "Count": 9
+      },
+      {
+        "ItemID": 4464,
+        "Count": 7
+      }
+    ]
+  },
+  {
+    "Warehouse": "Wales",
+    "Inventory": [
+      {
+        "ItemID": 95592,
+        "Count": 2
+      },
+      {
+        "ItemID": 62462,
+        "Count": 7
+      },
+      {
+        "ItemID": 4464,
+        "Count": 7
+      },
+      {
+        "ItemID": 1484,
+        "Count": 4
+      },
+      {
+        "ItemID": 81422,
+        "Count": 3
+      },
+      {
+        "ItemID": 26,
+        "Count": 3
+      },
+      {
+        "ItemID": 6439,
+        "Count": 8
+      },
+      {
+        "ItemID": 76552,
+        "Count": 7
+      },
+      {
+        "ItemID": 108342,
+        "Count": 2
+      },
+      {
+        "ItemID": 75252,
+        "Count": 5
+      }
+    ]
+  },
+  {
+    "Warehouse": "East Midlands",
+    "Inventory": [
+      {
+        "ItemID": 1484,
+        "Count": 10
+      },
+      {
+        "ItemID": 95592,
+        "Count": 16
+      },
+      {
+        "ItemID": 75252,
+        "Count": 8
+      },
+      {
+        "ItemID": 26,
+        "Count": 11
+      },
+      {
+        "ItemID": 6439,
+        "Count": 10
+      },
+      {
+        "ItemID": 81422,
+        "Count": 6
+      },
+      {
+        "ItemID": 4464,
+        "Count": 6
+      },
+      {
+        "ItemID": 76552,
+        "Count": 9
+      },
+      {
+        "ItemID": 108342,
+        "Count": 3
+      },
+      {
+        "ItemID": 62462,
+        "Count": 6
+      }
+    ]
+  },
+  {
+    "Warehouse": "North East",
+    "Inventory": [
+      {
+        "ItemID": 108342,
+        "Count": 7
+      },
+      {
+        "ItemID": 62462,
+        "Count": 5
+      },
+      {
+        "ItemID": 81422,
+        "Count": 3
+      },
+      {
+        "ItemID": 6439,
+        "Count": 8
+      },
+      {
+        "ItemID": 26,
+        "Count": 8
+      },
+      {
+        "ItemID": 76552,
+        "Count": 9
+      },
+      {
+        "ItemID": 4464,
+        "Count": 4
+      },
+      {
+        "ItemID": 1484,
+        "Count": 8
+      },
+      {
+        "ItemID": 75252,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Warehouse": "North West",
+    "Inventory": [
+      {
+        "ItemID": 62462,
+        "Count": 11
+      },
+      {
+        "ItemID": 75252,
+        "Count": 18
+      },
+      {
+        "ItemID": 4464,
+        "Count": 19
+      },
+      {
+        "ItemID": 1484,
+        "Count": 18
+      },
+      {
+        "ItemID": 76552,
+        "Count": 15
+      },
+      {
+        "ItemID": 108342,
+        "Count": 22
+      },
+      {
+        "ItemID": 95592,
+        "Count": 13
+      },
+      {
+        "ItemID": 6439,
+        "Count": 13
+      },
+      {
+        "ItemID": 81422,
+        "Count": 22
+      },
+      {
+        "ItemID": 26,
+        "Count": 22
+      }
+    ]
+  },
+  {
+    "Warehouse": "London",
+    "Inventory": [
+      {
+        "ItemID": 108342,
+        "Count": 12
+      },
+      {
+        "ItemID": 76552,
+        "Count": 14
+      },
+      {
+        "ItemID": 1484,
+        "Count": 21
+      },
+      {
+        "ItemID": 4464,
+        "Count": 20
+      },
+      {
+        "ItemID": 6439,
+        "Count": 23
+      },
+      {
+        "ItemID": 62462,
+        "Count": 11
+      },
+      {
+        "ItemID": 95592,
+        "Count": 15
+      },
+      {
+        "ItemID": 81422,
+        "Count": 10
+      },
+      {
+        "ItemID": 26,
+        "Count": 14
+      },
+      {
+        "ItemID": 75252,
+        "Count": 21
+      }
+    ]
+  },
+  {
+    "Warehouse": "Northern Ireland",
+    "Inventory": [
+      {
+        "ItemID": 1484,
+        "Count": 1
+      },
+      {
+        "ItemID": 81422,
+        "Count": 1
+      },
+      {
+        "ItemID": 6439,
+        "Count": 6
+      },
+      {
+        "ItemID": 76552,
+        "Count": 2
+      },
+      {
+        "ItemID": 4464,
+        "Count": 6
+      }
+    ]
+  }
+]

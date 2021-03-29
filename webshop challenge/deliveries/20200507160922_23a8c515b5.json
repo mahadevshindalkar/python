@@ -1,0 +1,31 @@
+{
+  "Warehouse": "Scotland",
+  "Date": "2020-05-07",
+  "Time": "16:09:22",
+  "Items": [
+    {
+      "ItemID": 108342,
+      "ItemCount": 80
+    },
+    {
+      "ItemID": 62462,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 75252,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 1484,
+      "ItemCount": 60
+    },
+    {
+      "ItemID": 26,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 81422,
+      "ItemCount": 40
+    }
+  ]
+}

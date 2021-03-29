@@ -1,0 +1,23 @@
+{
+  "Warehouse": "East Midlands",
+  "Date": "2020-05-08",
+  "Time": "08:10:30",
+  "Items": [
+    {
+      "ItemID": 26,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 95592,
+      "ItemCount": 60
+    },
+    {
+      "ItemID": 75252,
+      "ItemCount": 120
+    },
+    {
+      "ItemID": 62462,
+      "ItemCount": 40
+    }
+  ]
+}
