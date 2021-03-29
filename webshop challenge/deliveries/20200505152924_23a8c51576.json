@@ -1,0 +1,19 @@
+{
+  "Warehouse": "Yorkshire and The Humber",
+  "Date": "2020-05-05",
+  "Time": "15:29:24",
+  "Items": [
+    {
+      "ItemID": 62462,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 4464,
+      "ItemCount": 120
+    },
+    {
+      "ItemID": 1484,
+      "ItemCount": 100
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Warehouse": "Northern Ireland",
+  "Date": "2020-05-08",
+  "Time": "01:21:04",
+  "Items": [
+    {
+      "ItemID": 75252,
+      "ItemCount": 160
+    },
+    {
+      "ItemID": 95592,
+      "ItemCount": 40
+    },
+    {
+      "ItemID": 4464,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 108342,
+      "ItemCount": 20
+    }
+  ]
+}

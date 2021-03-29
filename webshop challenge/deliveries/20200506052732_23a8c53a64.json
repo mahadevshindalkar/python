@@ -1,0 +1,39 @@
+{
+  "Warehouse": "North West",
+  "Date": "2020-05-06",
+  "Time": "05:27:32",
+  "Items": [
+    {
+      "ItemID": 81422,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 26,
+      "ItemCount": 40
+    },
+    {
+      "ItemID": 62462,
+      "ItemCount": 40
+    },
+    {
+      "ItemID": 1484,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 4464,
+      "ItemCount": 40
+    },
+    {
+      "ItemID": 108342,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 6439,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 76552,
+      "ItemCount": 40
+    }
+  ]
+}

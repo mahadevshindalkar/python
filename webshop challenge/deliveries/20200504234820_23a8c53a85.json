@@ -1,0 +1,23 @@
+{
+  "Warehouse": "East of England",
+  "Date": "2020-05-04",
+  "Time": "23:48:20",
+  "Items": [
+    {
+      "ItemID": 108342,
+      "ItemCount": 100
+    },
+    {
+      "ItemID": 1484,
+      "ItemCount": 80
+    },
+    {
+      "ItemID": 81422,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 75252,
+      "ItemCount": 40
+    }
+  ]
+}

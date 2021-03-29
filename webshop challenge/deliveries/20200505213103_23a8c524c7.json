@@ -1,0 +1,35 @@
+{
+  "Warehouse": "South West",
+  "Date": "2020-05-05",
+  "Time": "21:31:03",
+  "Items": [
+    {
+      "ItemID": 75252,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 26,
+      "ItemCount": 60
+    },
+    {
+      "ItemID": 62462,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 76552,
+      "ItemCount": 40
+    },
+    {
+      "ItemID": 95592,
+      "ItemCount": 40
+    },
+    {
+      "ItemID": 1484,
+      "ItemCount": 40
+    },
+    {
+      "ItemID": 4464,
+      "ItemCount": 20
+    }
+  ]
+}

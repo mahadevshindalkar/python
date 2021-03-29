@@ -1,0 +1,31 @@
+{
+  "Warehouse": "Wales",
+  "Date": "2020-05-08",
+  "Time": "13:19:42",
+  "Items": [
+    {
+      "ItemID": 81422,
+      "ItemCount": 80
+    },
+    {
+      "ItemID": 108342,
+      "ItemCount": 40
+    },
+    {
+      "ItemID": 62462,
+      "ItemCount": 60
+    },
+    {
+      "ItemID": 76552,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 6439,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 26,
+      "ItemCount": 20
+    }
+  ]
+}

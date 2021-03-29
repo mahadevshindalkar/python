@@ -1,0 +1,27 @@
+{
+  "Warehouse": "North East",
+  "Date": "2020-05-06",
+  "Time": "00:18:17",
+  "Items": [
+    {
+      "ItemID": 6439,
+      "ItemCount": 100
+    },
+    {
+      "ItemID": 62462,
+      "ItemCount": 80
+    },
+    {
+      "ItemID": 26,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 76552,
+      "ItemCount": 20
+    },
+    {
+      "ItemID": 1484,
+      "ItemCount": 20
+    }
+  ]
+}
